@@ -64,6 +64,7 @@ You will have the following directory tree:<br>
 <h3>
 <a id="1.2">1.2 Prepare Cervical Cancer_Images</a>
 </h3>
+<br>
 1. We have downloaded an original dataset from the following website:<br>
 <a href="https://data.mendeley.com/datasets/zddtpgzv63/4">Liquid based cytology pap smear images for multi-class diagnosis of cervical cancer</a>
 <br>
