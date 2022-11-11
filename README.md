@@ -86,7 +86,7 @@ by using <a href="./projects/Cervical-Cancer/resize.py">resize.py</a>.
 to the resized dataset, .<br>
 
 5. Finally, we have created <b>Resampled-pap-smear-images</b> by applying 
-<a href="./projects/Cervical-Cancer/split_master">split_master.py</a> script to the resampled dataset.<br>
+<a href="./projects/Cervical-Cancer/split_master.py">split_master.py</a> script to the resampled dataset.<br>
 <pre>
 Resampled-pap-smear-images
  ├─test
