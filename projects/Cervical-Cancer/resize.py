@@ -26,7 +26,7 @@ import traceback
 
 def resize(base_image_dir, output_image_dir, image_size=512):
 
-  classes= ["High squamous intra-epithelial lesion",
+  classes = ["High squamous intra-epithelial lesion",
             "Low squamous intra-epithelial lesion",
             "Negative for Intraepithelial malignancy",
             "Squamous cell carcinoma"]

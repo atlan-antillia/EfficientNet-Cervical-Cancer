@@ -77,7 +77,9 @@ original_dataset
 ├─NL     (Negative for Intraepithelial malignancy)
 └─SCC    (Squamous cell carcinoma)
 </pre>
-3. We have created a resized <b>Liquid-based-cytology-pap-smear-images-512x512-master</b> dataset from the renamed dataset.<br>
+3. We have created a resized <b>Liquid-based-cytology-pap-smear-images-512x512-master</b> dataset from the renamed dataset.
+by using <a href="./projects/Cervical-Cancer/resize.py">resize.py</a>.
+<br>
 
 4. We have created <b>Resampled_pap_smear_images_master</b> by applying a dataset resampling tool 
 <a href="https://github.com/martian-antillia/ImageDatasetResampler">ImageDatasetResampler</a>
