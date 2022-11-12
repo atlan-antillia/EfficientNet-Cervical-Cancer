@@ -78,7 +78,7 @@ original_dataset
 └─SCC    (Squamous cell carcinoma)
 </pre>
 3. The size of each image in the original dataset is 2040x1536, which is apparently
- too large to use for a EfficientNetV2 model traing. Therefore, we have created a 
+ too large to use for a EfficientNetV2 model training. Therefore, we have created a 
  resized <b>Liquid-based-cytology-pap-smear-images-512x512-master</b> dataset from the renamed dataset.
 by using <a href="./projects/Cervical-Cancer/resize.py">resize.py</a>.
 <br>
