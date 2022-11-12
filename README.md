@@ -273,11 +273,11 @@ As shown above, please note that the <b>best_model.h5</b> has been saved at epoc
 <br>
 <br>
 Train_accuracies:<br>
-<img src="./projects/Cervical-Cancer/eval/train_accuracies.png" width="740" height="auto"><br>
+<img src="./projects/Cervical-Cancer/eval/train_accuracies.png" width="640" height="auto"><br>
 
 <br>
 Train_losses:<br>
-<img src="./projects/Cervical-Cancer/eval/train_losses.png" width="740" height="auto"><br>
+<img src="./projects/Cervical-Cancer/eval/train_losses.png" width="640" height="auto"><br>
 
 <br>
 
